@@ -1,4 +1,4 @@
-create DATABASE [stc-assessment]
+create DATABASE [stc-ps-assessment]
 
 -- Create User Table
 CREATE TABLE User_ (
